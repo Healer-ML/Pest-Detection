@@ -1,5 +1,7 @@
 # Pest-Detection
-##Training
+#Training <br>
 The full source code will be released soon. <br>
-##Testing
+#Testing <br>
 We provide the pretrained  model here. To finetune the model on data.<br>
+#data 
+The data can be obtained from the following link 
